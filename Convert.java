@@ -1,3 +1,9 @@
+/*  Ashish Surti 
+    Student id - A00244471
+    Program - MAPD - JAV1001, Lab-01
+*/
+
+
 import java.util.Scanner;
 
 public class Convert{
